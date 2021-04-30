@@ -7,7 +7,11 @@
   height: 50vh;
 }
 body {
+<<<<<<< HEAD
   background: url(../images/pexels-pixabay-531321.jpg);
+=======
+  background: url(/Testimonials/images/pexels-pixabay-531321.jpg);
+>>>>>>> dd37a1f8a46780ffc87d5c273724a33f2be0a577
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
