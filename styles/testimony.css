@@ -7,7 +7,7 @@
   height: 50vh;
 }
 body {
-  background: url(/Timeline/images/pexels-pixabay-531321.jpg);
+  background: url(../images/pexels-pixabay-531321.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
